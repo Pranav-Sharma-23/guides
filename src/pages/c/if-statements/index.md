@@ -17,7 +17,7 @@ int main(void) {
         printf("Statement is True!\n");
 
     }
-
+   else printf("False");
     return 0;
 }
 ```
